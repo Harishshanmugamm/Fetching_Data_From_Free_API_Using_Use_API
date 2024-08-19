@@ -2,6 +2,7 @@
   "name": "fetch",
   "version": "0.1.0",
   "private": true,
+  "home":"https://harishshanmugamm.github.io/Fetching_Data_From_Free_API_Using_Use_API/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
